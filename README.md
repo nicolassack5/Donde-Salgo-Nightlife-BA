@@ -11,7 +11,7 @@ Facilitar la búsqueda de salidas nocturnas permitiendo a los usuarios filtrar p
 
 ### 🛠 Stack Tecnológico
 Este sistema fue construido utilizando:
-* **Lenguaje:** JavaScript 
+* **Lenguaje:** JavaScript, CSS 
 * **Base de Datos:** MySQL 
 * **Interfaz:** Consola
 
